@@ -49,13 +49,13 @@ Bảng phân quyền nguời dùng.
 
 # 1 Lập từ điển dữ liệu
 # A. Bảng KHOA #
-1	maKhoa	Varchar(30)	Not null	PK	Mã khoa
-2	tenKhoa	Varchar(30)	null		Tên khoa 
+# 1	maKhoa	Varchar(30)	Not null	PK	Mã khoa
+# 2	tenKhoa	Varchar(30)	null		Tên khoa 
 # B. Bảng TOMON
-1	maToMon	Varchar(30)	Not null	PK	Mã tổ môn
-2	tenToMon	Varchar(30)	Not null		Tên tổ môn
-3	soGV	Int	Null		Số Giảng viên
-4	maKhoa	Varchar(30)	Not Null	FK	Mã Khoa
+# 1	maToMon	Varchar(30)	Not null	PK	Mã tổ môn
+#  2	tenToMon	Varchar(30)	Not null		Tên tổ môn
+#  3	soGV	Int	Null		Số Giảng viên
+#  4	maKhoa	Varchar(30)	Not Null	FK	Mã Khoa
 # C. Bảng LOP
 1	maLop	Varchar(30)	Not null	PK	Mã lớp
 2	tenLop	Varchar(30)	Not null		Tên lớp
