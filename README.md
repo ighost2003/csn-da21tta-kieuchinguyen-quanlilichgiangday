@@ -23,14 +23,14 @@ Người quản trị : Cho phép quản trị các chức năng của hệ th�
 -	Quản lí phòng học: Mỗi lớp học sẽ được phân một phòng học, phân theo số tiết và ca học để không có sự trùng lặp giữa các lớp với nhau. Bộ phận quản lí phòng học sẽ quản lí các trang thiết bị trong phòng. Phòng học được chia thành phòng học lí thuyết và phòng học thực hành, bộ phận này sẽ phân công phòng theo yêu cầu của chương trình học(số tiết lí thuyêt và số tiết thực hành).
 -	Bộ phận lập phân công giảng dạy: Trước ki bắt đầu kì học tiếp theo ít nhất 14 ngày, bộ phận phân công giảng dạy thống nhất với các bộ môn về kế hoach đào tạo và yêu cầu bộ môn dự kiến phân công giảng dạy. Trên cơ sở kế hoạch đào tạo của khoa , trưởng bộ môn tổ chức họp để phân công giảng dạy và gửi danh sách phân công dự kiến cho ban chủ nhiệm khoa(Mỗi học phần phải dự kiến một GV chính thức và một GV dự phòng). Trưởng bộ môn có nhiệm vụ thông báo cho các GV có tên trong danh sách phân công giảng dạy chuẩn bị đề cương dựa trên cơ sở đề cương chung của học phần. Sau khi thông qua đề cương giảng dạy lich phân công giảng dạy đã được hoàn thành. Lịch phân công giảng dạy sau khi được duyệt sẽ được thông báo lại cho các giảng viên có trong danh sách.
 # Xác định các thực thể , định danh tương ứng
-           KHOA : Mã khoa
-           TỔ MÔN : Mã tổ môn
-           LỚP : Mã lớp
-           HỒ SƠ GIẢNG VIÊN : Mã giảng viên
-           PHÂN CÔNG GIẢNG DẠY : Mã phân công
-           CHƯƠNG TRÌNH ĐÀO TẠO : Mã học phần
-           PHÒNG HỌC : Mã phòng
-           GIÁM SÁT GIẢNG DẠY : Mã giảng viên
+KHOA : Mã khoa
+TỔ MÔN : Mã tổ môn
+LỚP : Mã lớp
+HỒ SƠ GIẢNG VIÊN : Mã giảng viên
+PHÂN CÔNG GIẢNG DẠY : Mã phân công
+CHƯƠNG TRÌNH ĐÀO TẠO : Mã học phần
+PHÒNG HỌC : Mã phòng
+GIÁM SÁT GIẢNG DẠY : Mã giảng viên
 # Chuyển mô hình thực thể thành các bản logic
 •	Khóa đào tạo( mãKhóaĐT, tênKhóaĐT, nămNhập, sốNămĐT,mãNgành).
 •	Khoa( mãKhoa, tênKhoa).
@@ -48,9 +48,9 @@ Bảng phân quyền nguời dùng.
 •	Người dùng(tàiKhoản, pass, mãNhóm).
 
 # 1 Lập từ điển dữ liệu
-# A. Bảng KHOA
+# A. Bảng KHOA #
 1	maKhoa	Varchar(30)	Not null	PK	Mã khoa
-2	tenKhoa	Varchar(30)	null		Tên khoa
+2	tenKhoa	Varchar(30)	null		Tên khoa 
 # B. Bảng TOMON
 1	maToMon	Varchar(30)	Not null	PK	Mã tổ môn
 2	tenToMon	Varchar(30)	Not null		Tên tổ môn
