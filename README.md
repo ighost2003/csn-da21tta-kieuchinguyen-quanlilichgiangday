@@ -11,6 +11,24 @@ Xem xét cách đảm bảo sự công bằng trong phân công, tránh thiên v
 Áp dụng công nghệ để tạo ra một hệ thống quản lý lịch giảng dạy linh hoạt và dễ dàng sử dụng, hỗ trợ giảng viên trong việc theo dõi và cập nhật thông tin lịch trực tuyến
 # 1.5	 Ứng dụng công nghệ trong quản lý giáo dục
 Việc xây dựng một hệ thống phân công lịch giảng dạy sử dụng công nghệ làm nền tảng giúp tạo ra một môi trường quản lý giáo dục hiện đại và linh hoạt.
+# CHƯƠNG 2: CƠ SỞ LÝ THUYẾT
+# 2.1	 GIỚI THIỆU VỀ NGÔN NGỮ C# 
+Mục tiêu của C# là cung cấp một ngôn ngữ lập trình đơn giản, an toàn , hiện đại , hướng đối tượng, đặt trọng tâm vào internet. Có khả năng thực thi cao cho môi trường .NET . C# là một ngôn ngữ mới, nhưng tích hợp trong đó những tinh hoa của ba thập kỷ phát triển của ngôn ngữ lập trình. Ta có thể dễ dàng thấy trong C# có những đặc trưng quen thuộc của Java, C++, Visual Basic,…	
+# 2.1.1	Tại sao phải sử dụng ngôn ngữ C#
+Nhiều người tin rằng không cần thiết có một ngôn ngữ chương trình mới Java, C++, Perl, Microsoft Visual Basic, và những ngôn ngữ khác được nghĩ rằng đã cung cấp tất cả những chức năng cần thiết. Ngôn ngữ C# là một ngôn ngữ được dẫn xuất từ C và C++, nhưng nó được tạo từ nền tảng phát triển hơn. Microsoft bắt đầu với công việc trong C và C++ và thêm vào những đặc tính mới để làm cho ngôn ngữ này dễ sử dụng hơn. Nhiều trong số những đặc tính này khá giống với những đặc tính trong ngôn ngữ Java. Không dừng lại ở đó, Microsoft đưa ra một số mục đích khi xây dựng ngôn ngữ này.Những mục đích này được tóm tắt như sau:
+# 2.1.2	  C# là một ngôn ngữ đơn giản
+ C# loại bỏ một vài sự phức tạp và rối rắm của những ngôn ngữ như Java và C++, bao gồm việc loại bỏ những marco, những template, đa kế thừa. và lớp cơ sở ảo. Chúng là những nguyên nhân gây sự ra sự nhầm lẫn hay dẫn đến những vấn đề cho các người phát triển C++. Nếu chúng ta là người học ngôn ngữ này đầu tiên thì chắc chắn là ta sẽ không trải qua những thời gian để học nó. Nhưng khi đó ta sẽ biết được hiệu quả của ngôn ngữ C# khi loại bỏ những vấn đề trên.Ngôn ngữ C# đơn giản vì nó dựa trên nền tảng C và C++. Nếu chúng ta thân thiện với C và C++ hoặc thậm chí là Java, chúng ta sẽ thấy C# khá giống về diện mạo, cú pháp,biểu thức ,toán tử và những chức năng khác được lấy trực tiếp từ ngôn ngữ C và C++, nhưng nó đã được cải tiến để làm cho ngôn ngữ đơn giản hơn.
+# 2.1.3	 C# là ngôn ngữ hiện đại
+Điều gì làm cho một ngôn ngữ hiện đại? Những đặc tính như là xử lý ngoại lệ, thu gom bộ nhớ tự động, những kiểu dữ liệu tự động, và bảo mật mã nguồn là những đặc tính được mong đợi trong một ngôn ngữ hiện đại . C# chứa tất cả những đặc tính trên.Nếu là người mới học lập trình có thể chúng ta sẽ thấy những đặc tính trên phức tạp và khó hiểu. Tuy nhiên, cũng đừng lo lắng chúng ta sẽ dần dần được tìm hiểu những đặc tính qua các chương trình qua cuốn sách này.
+# 2.1.4	 C# là ngôn ngữ hướng đối tượng
+Những đặc điểm chính của ngôn ngữ hướng đối tượng ( Object-oriented language) là sự đóng gói , sự kế thừa, và đa hình.C# hỗ trợ tất cả đặc tính trên.
+# 2.1.5	 C# là ngon ngữ mạnh mẽ và cùng mềm dẻo
+Như đã đề cập trước, với ngôn ngữ C# chúng ta bị giới hạn ở chính bởi bản thân hay là trí tưởng tượng của chúng ta. Ngôn ngữ này không đặt những ràng buộc lên những việc có thể làm. C# được sử dụng cho nhiều các dự án khác nhau như là tạo ra ứng dụng xử lý văn bản, ứng dụng đồ họa,bản tính, hay thậm chí những trình biên dịch cho ngôn ngữ khác.
+# 2.1.6	C# là ngôn ngữ ít từ khóa
+C# là ngôn ngữ sử dụng giới hạn những từ khóa. Phần lớn các từ khóa được sử dụng để mô tả thông tin. Chúng ta có thể nghĩ rằng một ngôn ngữ có nhiều từ khóa thì sẽ mạnh hơn. Điều này không phải sự thật, ít nhất là trong trường hợp ngôn ngữ C#, chúng ta có thể tìm thấy rằng ngôn ngữ này có thể được sử dụng, để làm bất cứ nhiệm vụ nào. Bảng sau liệt kê các từ khóa của ngôn ngữ C#                                           
+# 2.1.7	 C# là ngôn ngữ hướng module
+ Mã nguồn C# có thể được viết trong những phần được gọi là những lớp, những lớp này chứa các phương thức thành viên của nó.Những lớp và những phương thức có thể được sử dụng lại trong các ứng dụng hay các chương trình khác. Bằng cách truyền các mẫu 	thông tin đến những lớp hay phương thức chúng ta có thể tạo ra những mã nguồn dùng lại có hiệu quả.
+
 # CHƯƠNG 3: HIỆN THỰC HÓA NGHIÊN CỨU
 # 3.1 MÔ TẢ ĐỀ TÀI
 
@@ -57,54 +75,54 @@ Bảng phân quyền nguời dùng.
 #  3	soGV	Int	Null		Số Giảng viên
 #  4	maKhoa	Varchar(30)	Not Null	FK	Mã Khoa
 # C. Bảng LOP
-1	maLop	Varchar(30)	Not null	PK	Mã lớp
-2	tenLop	Varchar(30)	Not null		Tên lớp
-3	maKhoaDT	Varchar(30)	Not null	FK	Mã khoa đào tạo
-4	soSV	int	null		Số Sinh Viên
+#  1	maLop	Varchar(30)	Not null	PK	Mã lớp
+# 2	tenLop	Varchar(30)	Not null		Tên lớp
+#  3	maKhoaDT	Varchar(30)	Not null	FK	Mã khoa đào tạo
+# 4	soSV	int	null		Số Sinh Viên
 # D. Bảng CHUONGTRINHDAOTAO
-1	maHocPhan	Varchar(30)	Not null	PK	Mã học phần
-2	maKhoaDT	Varchar(30)	Not null	FK	Mã khoa đào tạo
-3	maMon	Varchar(30)	Not null	FK	Mã môn
-4	soTinChi	int	Null		Số Tín chỉ
-5	soTCLT	int	Null		Số TC Lý thuyết
-6	soTCTH	int	Null		Số TC Thực
+# 1	maHocPhan	Varchar(30)	Not null	PK	Mã học phần
+# 2	maKhoaDT	Varchar(30)	Not null	FK	Mã khoa đào tạo
+# 3	maMon	Varchar(30)	Not null	FK	Mã môn
+# 4	soTinChi	int	Null		Số Tín chỉ
+# 5	soTCLT	int	Null		Số TC Lý thuyết
+# 6	soTCTH	int	Null		Số TC Thực
 hành
-7	hocKy	int	Null		Học kỳ
+# 7	hocKy	int	Null		Học kỳ
 # E. Bảng MONHOC
-1	maMon	Varchar(30)	Not null	PK	Mã môn
-2	tenMon	Varchar(30)	Null		Tên môn
+# 1	maMon	Varchar(30)	Not null	PK	Mã môn
+# 2	tenMon	Varchar(30)	Null		Tên môn
 # F. Bảng PHANCONGGIANGDAY
-1	maPCGD	Varchar(30)	Not null	PK	Mã phân công
+# 1	maPCGD	Varchar(30)	Not null	PK	Mã phân công
 giảng dạy
-2	maLop	Varchar(30)	Null	FK	Mã lớp
-3	maGV	Varchar(30)	Null	FK	Mã Giảng viên
-4	maHocPhan	Varchar(30)	Null	FK	Mã học phần
-5	ngayBatDau	datetime	Null		Ngày bắt đầu
-6	ngayKetThuc	datetime	Null		Ngày kết thúc
-7	tietDay	Varchar(30)	Null		Tiết dạy
-8	maPhong	Varchar(30)	Not Null	FK	Mã phòng
+# 2	maLop	Varchar(30)	Null	FK	Mã lớp
+# 3	maGV	Varchar(30)	Null	FK	Mã Giảng viên
+# 4	maHocPhan	Varchar(30)	Null	FK	Mã học phần
+# 5	ngayBatDau	datetime	Null		Ngày bắt đầu
+# 6	ngayKetThuc	datetime	Null		Ngày kết thúc
+# 7	tietDay	Varchar(30)	Null		Tiết dạy
+# 8	maPhong	Varchar(30)	Not Null	FK	Mã phòng
 # G. Bảng HOSOGIANGVIEN
-1	maGV	Nvarchar(30)	Not null	PK	Mã Giảng viên
-2	hoGV	Nvarchar(30)	Not null		Họ Giảng viên
-3	tenGV	Nvarchar(30)	Not null		Tên Giảng viên
-4	ngaySinh	Datetime	Null		Ngày sinh
-5	gioiTinh	Nvarchar(30)	Null		Giới tính
-6	diaChi	Nvarchar(30)	Null		địa chỉ
-7	dienThoai	Varchar(30)	Null		Điện thoai
-8	chucDanh	Nvarchar(30)	Null		chức danh
-9	chucVu	Nvarchar(30)	Null		chức vụ
-10	maToMon	Nvarchar(30)	Null	FK	Mã tổ môn
+# 1	maGV	Nvarchar(30)	Not null	PK	Mã Giảng viên
+# 2	hoGV	Nvarchar(30)	Not null		Họ Giảng viên
+# 3	tenGV	Nvarchar(30)	Not null		Tên Giảng viên
+# 4	ngaySinh	Datetime	Null		Ngày sinh
+# 5	gioiTinh	Nvarchar(30)	Null		Giới tính
+# 6	diaChi	Nvarchar(30)	Null		địa chỉ
+# 7	dienThoai	Varchar(30)	Null		Điện thoai
+# 8	chucDanh	Nvarchar(30)	Null		chức danh
+# 9	chucVu	Nvarchar(30)	Null		chức vụ
+# 10	maToMon	Nvarchar(30)	Null	FK	Mã tổ môn
 # H. Bảng GIAMSATGIANGDAY
-1	maGV	Varchar(30)	Not Null	PK	Mã Giảng Viên
-2	soTietNghi	int	Null		Số tiết nghỉ
-3	ngayNghi	Datetime	Null		Ngày nghỉ
-4	soTietBu	int	Null		Số tiết dạy bù
-5	ngayBu	Datetime	Null		Ngày dạy bù
+# 1	maGV	Varchar(30)	Not Null	PK	Mã Giảng Viên
+# 2	soTietNghi	int	Null		Số tiết nghỉ
+# 3	ngayNghi	Datetime	Null		Ngày nghỉ
+# 4	soTietBu	int	Null		Số tiết dạy bù
+# 5	ngayBu	Datetime	Null		Ngày dạy bù
 # I.	Bảng PHONGHOC
-1	maPhong	Varchar(30)	Not null	PK	Mã phòng
-2	tenPhong	Varchar(30)	Null		Tên phòng
-3	soBan	Varchar(30)	Null		Số bàn
-4	diaDiem	int	Null		Địa điểm
+# 1	maPhong	Varchar(30)	Not null	PK	Mã phòng
+# 2	tenPhong	Varchar(30)	Null		Tên phòng
+# 3	soBan	Varchar(30)	Null		Số bàn
+# 4	diaDiem	int	Null		Địa điểm
 # Mô hình phân cấp chức năng của hệ thống
 ![image](https://github.com/ighost2003/csn-da21tta-kieuchinguyen-quanlilichgiangday/assets/147168297/2a6ecdab-9289-48ae-b7e1-b18d98d561e2)
 # Mô hình luồng dữ liệu mức khung cảnh
