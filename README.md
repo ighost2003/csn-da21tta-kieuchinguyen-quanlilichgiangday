@@ -107,7 +107,33 @@ giảng dạy
 4	diaDiem	int	Null		Địa điểm
 # Mô hình phân cấp chức năng của hệ thống
 ![image](https://github.com/ighost2003/csn-da21tta-kieuchinguyen-quanlilichgiangday/assets/147168297/2a6ecdab-9289-48ae-b7e1-b18d98d561e2)
-
+# Mô hình luồng dữ liệu mức khung cảnh
+![image](https://github.com/ighost2003/csn-da21tta-kieuchinguyen-quanlilichgiangday/assets/147168297/e6b3de9f-4247-4b09-830d-2d37d4e09992)
+# Xác định các thuộc tính
+![image](https://github.com/ighost2003/csn-da21tta-kieuchinguyen-quanlilichgiangday/assets/147168297/49845361-84d3-4166-9cac-f80cc231dc16)
+# Mô hình dữ liệu vật lý
+![image](https://github.com/ighost2003/csn-da21tta-kieuchinguyen-quanlilichgiangday/assets/147168297/d4a9ddb2-775b-44a9-bb9c-e606d2e0976e)
+# THIẾT KẾ GIAO DIỆN
+# Giao diện đăng nhập
+![image](https://github.com/ighost2003/csn-da21tta-kieuchinguyen-quanlilichgiangday/assets/147168297/4fa15479-d069-4603-a56e-b63b61fe8b76)
+# Hệ thống
+![image](https://github.com/ighost2003/csn-da21tta-kieuchinguyen-quanlilichgiangday/assets/147168297/495a3019-53cb-46ce-be13-526e2bbc32ea)
+# Giao diện người dùng
+![image](https://github.com/ighost2003/csn-da21tta-kieuchinguyen-quanlilichgiangday/assets/147168297/9485e755-cbc8-4219-96cd-1e2597c80f4a)
+# Giao diện nhập liệu
+![image](https://github.com/ighost2003/csn-da21tta-kieuchinguyen-quanlilichgiangday/assets/147168297/35506429-5d52-4ca9-ab57-f7ba2ab14883)
+# Giao diện danh sách giảng viên
+![image](https://github.com/ighost2003/csn-da21tta-kieuchinguyen-quanlilichgiangday/assets/147168297/0d2b677d-d604-4230-a8e5-da702ec40f02)
+# Giao diện chương trình đào tạo
+![image](https://github.com/ighost2003/csn-da21tta-kieuchinguyen-quanlilichgiangday/assets/147168297/95a1aaea-cf97-49c7-8442-cb94192561ba)
+# Giao diện phân công giảng dạy
+![image](https://github.com/ighost2003/csn-da21tta-kieuchinguyen-quanlilichgiangday/assets/147168297/fdd465fe-43d3-4a17-90fe-655b4c364bb5)
+# Giao diện tìm kiếm
+![image](https://github.com/ighost2003/csn-da21tta-kieuchinguyen-quanlilichgiangday/assets/147168297/74c5e869-9d96-48c7-925d-edf2effb0559)
+# Giao diện lớp
+![image](https://github.com/ighost2003/csn-da21tta-kieuchinguyen-quanlilichgiangday/assets/147168297/c6e54092-aaea-40f9-adf4-89874a271c22)
+# Giao diện phòng học
+![image](https://github.com/ighost2003/csn-da21tta-kieuchinguyen-quanlilichgiangday/assets/147168297/1fe347a0-39bd-45c0-b7e2-203a390774b1)
 
 # CHƯƠNG 5: KẾT LUẬN VÀ HƯỚNG PHÁT TRIỂN
 # 5.1 KẾT LUẬN
