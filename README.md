@@ -1,4 +1,4 @@
-![image](https://github.com/ighost2003/csn-da21tta-kieuchinguyen-quanlilichgiangday/assets/147168297/13584ab6-680b-4c14-b3e5-2bd00262b950)# CHƯƠNG 1: TỔNG QUAN
+# CHƯƠNG 1: TỔNG QUAN
 Trong môi trường đầy thách thức của bộ môn Công nghệ thông tin (CNTT), quá trình phân công lịch giảng dạy của giảng viên trở thành một yếu tố quan trọng đối với sự thành công của chương trình giáo dục. Sự đa dạng về nội dung giảng dạy, kỹ năng chuyên môn, và mong muốn giảng dạy tạo ra một thách thức đặc biệt trong việc quản lý lịch giảng dạy một cách hiệu quả.
 Chương trình phân công lịch giảng dạy của giảng viên CNTT sẽ tập trung nghiên cứu và giải quyết những thách thức này thông qua việc kết hợp sự linh hoạt, công bằng, và tích hợp công nghệ. Chúng ta sẽ xem xét cách áp dụng các yếu tố như kỹ năng chuyên môn, sở thích cá nhân, và mức độ quá tải vào quá trình phân công lịch giảng dạy.
 # 1.1  Tối ưu hóa sự phù hợp
@@ -105,6 +105,10 @@ giảng dạy
 2	tenPhong	Varchar(30)	Null		Tên phòng
 3	soBan	Varchar(30)	Null		Số bàn
 4	diaDiem	int	Null		Địa điểm
+# Mô hình phân cấp chức năng của hệ thống
+![image](https://github.com/ighost2003/csn-da21tta-kieuchinguyen-quanlilichgiangday/assets/147168297/2a6ecdab-9289-48ae-b7e1-b18d98d561e2)
+
+
 # CHƯƠNG 5: KẾT LUẬN VÀ HƯỚNG PHÁT TRIỂN
 # 5.1 KẾT LUẬN
 Đề tài quản lí lịch giảng dạy của giảng viên CNTT đã đưa ra những nội dung , thành phần cơ bản trong hệ thống giảng dạy của giảng viên. Có thể giúp tối ưu hóa việc phân công giảng dạy, giảm thiểu xung đột lịch và tăng cường tính linh hoạt. Điều này giúp giáo viên dành nhiều thời gian hơn cho việc chuẩn bị bài giảng và tương tác với học sinh
